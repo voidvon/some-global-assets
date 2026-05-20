@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Splitter"
+  short_description: "Split large PDFs into smaller files"
+  default_prompt: "Use $pdf-splitter to split this PDF into smaller files."
